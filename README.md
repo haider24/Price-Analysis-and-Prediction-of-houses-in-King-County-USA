@@ -7,4 +7,4 @@ Algorithms used for training are:
 1. Polynomial Regression
 1. Ridge Regression
 
-Coefficient of determination or R^2 score is used for evaluating the models.
+Coefficient of determination or R^2 is used for evaluating the models.
