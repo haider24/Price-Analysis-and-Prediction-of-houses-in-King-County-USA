@@ -2,7 +2,7 @@ This notebook contains code for analyzing and predicting the prices of houses in
 
 **Box Plot** and **Regression Plot** are used for visualization and getting an insight into the data set.
 
-Algortithms used for training are:
+Algorithms used for training are:
 1. Linear Regression
 1. Polynomial Regression
 1. Ridge Regression
